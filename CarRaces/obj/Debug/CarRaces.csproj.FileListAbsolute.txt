@@ -1,0 +1,10 @@
+c:\users\greg\source\repos\CarRaces\CarRaces\bin\Debug\CarRaces.exe.config
+c:\users\greg\source\repos\CarRaces\CarRaces\bin\Debug\CarRaces.exe
+c:\users\greg\source\repos\CarRaces\CarRaces\bin\Debug\CarRaces.pdb
+c:\users\greg\source\repos\CarRaces\CarRaces\obj\Debug\CarRaces.csprojResolveAssemblyReference.cache
+c:\users\greg\source\repos\CarRaces\CarRaces\obj\Debug\CarRaces.Properties.Resources.resources
+c:\users\greg\source\repos\CarRaces\CarRaces\obj\Debug\CarRaces.csproj.GenerateResource.Cache
+c:\users\greg\source\repos\CarRaces\CarRaces\obj\Debug\CarRaces.csproj.CoreCompileInputs.cache
+c:\users\greg\source\repos\CarRaces\CarRaces\obj\Debug\CarRaces.exe
+c:\users\greg\source\repos\CarRaces\CarRaces\obj\Debug\CarRaces.pdb
+c:\users\greg\source\repos\CarRaces\CarRaces\obj\Debug\CarRaces.CarRacesForm.resources
